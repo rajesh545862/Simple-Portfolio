@@ -1,1 +1,1 @@
-<b><i>This Repo consists my blog site codes</i></B>
+<b><i>This Repo consists code of simple & Responsive portfolio site</i></B>
